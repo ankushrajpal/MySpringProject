@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+
+*{
+	box-sizing: border-box;
+}
+.category-div{
+
+	margin:20px 0px 20px ;
+	padding:10px 10px  10px 10px;
+	background-color: aqua;
+	height:300px;
+	width:100%;
+}
+.category-container{
+	padding:10px;
+	margin: 0 auto;
+    min-width: 978px;
+    max-width: 1680px;
+}
+
+.category-div .card{
+	margin:5px;
+	background-color: white;
+}
+.view-all-link{
+	display:inline-block;
+	align-content: left;
+}
